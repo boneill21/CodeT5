@@ -1,5 +1,9 @@
 Steps to run program:
 
+Clone repository and unzip CodeT5.zip.
+
+DataSubsets.zip contains the split datasets which I created, but is not necessary to downlaod.
+
 Setup Instructions
 
 1. Open the Notebook in Colab
