@@ -7,7 +7,7 @@ DataSubsets.zip contains the split datasets which I created, but is not necessar
 Setup Instructions
 
 1. Open the Notebook in Colab
-Go to Google Colab and upload CodeT5_IfPrediction.ipynb (File > Upload Notebook).
+Go to Google Colab and upload CodeT5_Ben_ONeill.ipynb (File > Upload Notebook).
 Or, if the repository is in Google Drive, open it directly.
 2. Enable GPU
 In Colab, go to "Runtime > Change runtime type" and select "GPU".
